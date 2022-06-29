@@ -1,5 +1,11 @@
 ### Introduce My Self
+**รหัสนักศึกษา**  : 65XXXXX
+**ชื่อจริง** : 
+**นามสกุล** :
+**ชื่อเล่น** :
 
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+### Introduce Visitor
+**รหัสนักศึกษา**  : 65XXXXX
+**ชื่อจริง** : 
+**นามสกุล** :
+**ชื่อเล่น** :
