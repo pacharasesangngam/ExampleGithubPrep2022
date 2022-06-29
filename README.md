@@ -28,7 +28,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/pcbimon/ExampleGitHubPrep2022">
+  <a href="https://github.com/prepGithub2022/ExampleGitHubPrep2022">
     <img src="https://pbs.twimg.com/media/ErGRRIFXcAIhctR.png" alt="Logo" width="200" height="200">
   </a>
 
@@ -37,14 +37,14 @@
   <p align="center">
     This is project example for DST Example Training
     <br />
-    <a href="https://github.com/pcbimon/ExampleGitHubPrep2022"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/prepGithub2022/ExampleGitHubPrep2022"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/pcbimon/ExampleGitHubPrep2022">View Demo</a>
+    <a href="https://github.com/prepGithub2022/ExampleGitHubPrep2022">View Demo</a>
     ·
-    <a href="https://github.com/pcbimon/ExampleGitHubPrep2022/issues">Report Bug</a>
+    <a href="https://github.com/prepGithub2022/ExampleGitHubPrep2022/issues">Report Bug</a>
     ·
-    <a href="https://github.com/pcbimon/ExampleGitHubPrep2022/issues">Request Feature</a>
+    <a href="https://github.com/prepGithub2022/ExampleGitHubPrep2022/issues">Request Feature</a>
   </p>
 </div>
 
@@ -106,7 +106,7 @@ Hi! I'm Mon. I'm a Full Stack Developer from Thailand.
 
 - Clone the repo
    ```sh
-   git clone https://github.com/pcbimon/ExampleGitHubPrep2022.git
+   git clone https://github.com/prepGithub2022/ExampleGitHubPrep2022.git
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -117,15 +117,15 @@ Hi! I'm Mon. I'm a Full Stack Developer from Thailand.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/pcbimon/ExampleGitHubPrep2022.svg?style=for-the-badge
-[contributors-url]: https://github.com/pcbimon/ExampleGitHubPrep2022/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/pcbimon/ExampleGitHubPrep2022.svg?style=for-the-badge
-[forks-url]: https://github.com/pcbimon/ExampleGitHubPrep2022/network/members
-[stars-shield]: https://img.shields.io/github/stars/pcbimon/ExampleGitHubPrep2022.svg?style=for-the-badge
-[stars-url]: https://github.com/pcbimon/ExampleGitHubPrep2022/stargazers
-[issues-shield]: https://img.shields.io/github/issues/pcbimon/ExampleGitHubPrep2022.svg?style=for-the-badge
-[issues-url]: https://github.com/pcbimon/ExampleGitHubPrep2022/issues
-[license-shield]: https://img.shields.io/github/license/pcbimon/ExampleGitHubPrep2022.svg?style=for-the-badge
-[license-url]: https://github.com/pcbimon/ExampleGitHubPrep2022/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/prepGithub2022/ExampleGitHubPrep2022.svg?style=for-the-badge
+[contributors-url]: https://github.com/prepGithub2022/ExampleGitHubPrep2022/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/prepGithub2022/ExampleGitHubPrep2022.svg?style=for-the-badge
+[forks-url]: https://github.com/prepGithub2022/ExampleGitHubPrep2022/network/members
+[stars-shield]: https://img.shields.io/github/stars/prepGithub2022/ExampleGitHubPrep2022.svg?style=for-the-badge
+[stars-url]: https://github.com/prepGithub2022/ExampleGitHubPrep2022/stargazers
+[issues-shield]: https://img.shields.io/github/issues/prepGithub2022/ExampleGitHubPrep2022.svg?style=for-the-badge
+[issues-url]: https://github.com/prepGithub2022/ExampleGitHubPrep2022/issues
+[license-shield]: https://img.shields.io/github/license/prepGithub2022/ExampleGitHubPrep2022.svg?style=for-the-badge
+[license-url]: https://github.com/prepGithub2022/ExampleGitHubPrep2022/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [product-screenshot]: images/screenshot.png
